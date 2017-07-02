@@ -1,0 +1,10 @@
+<books>
+	<book title="Bum"> 
+		<year>1999</year>
+		<author>D.K.</author>
+	</book>
+	<book title="cc">
+		<year>2000</year>
+		<author>M.G.</author>
+	</book>	
+</books>		
